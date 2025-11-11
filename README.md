@@ -3,7 +3,7 @@ A neural network built using only basic c libraries
 
 to run execute the following:
 
-gcc 
+gcc nn_basic.c -o nn -lm
 
 # run it
-& "c:\Users\arthu\OneDrive\Documents\Neural_Network_in_C\nn.exe"
+.\nn.exe
